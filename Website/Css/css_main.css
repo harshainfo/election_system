@@ -1,0 +1,65 @@
+@charset "utf-8";
+
+.login {
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	background-color: Darkblue;
+	text-align: Right;
+	vertical-align: bottom;
+	padding-top: 0px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
+
+.header {
+	font-family: Arial;
+	font-size: 32px;
+	font-style: normal;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	background-color: Darkblue;
+	text-align: left;
+	vertical-align: top;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+}
+
+.footer {
+	font-family: "Arial;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: lighter;
+	color: white;
+	text-decoration: none;
+	background-color: Darkblue;
+	text-align: center;
+	vertical-align: bottom;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+}
+
+.body {
+	font-family: "Arial;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: lighter;
+	color: black;
+	text-decoration: none;
+	background-color: white;
+	text-align: center;
+	vertical-align:center;
+	padding-top: 10px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 20px;
+}
